@@ -1,3 +1,2 @@
 Hi my name is Kyle Euman 
-This is my repo for all homework assignments
-This next assignment is kinda just building a portfolio for yourself to show to potential employers.
+This weeks Homework assignment is about creating a random password generator using Javascript.
