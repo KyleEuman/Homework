@@ -152,6 +152,7 @@ function checkForEnter(event) {
 }
 
 
+
 submitBtn.onclick = saveHighscore;
 
 

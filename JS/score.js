@@ -23,6 +23,7 @@ function clearHighscores() {
   window.location.reload();
 }
 
+
 document.getElementById("clear").onclick = clearHighscores;
 
 
